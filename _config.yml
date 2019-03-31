@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Gaurav Baruah"
-  avatar           : "profile.png"
-  bio              : "Population Ecology, communtiy ecology, theoretical ecology"
-  location         : "Zurcih"
+  avatar           : "profile.jpg"
+  bio              : "Population Ecology, Communtiy ecology, Theoretical ecology"
+  location         : "Zurich"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ch/citations?user=NUBQBAsAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Gaurav_Baruah2"
   uri              :
   bitbucket        :
   codepen          :
