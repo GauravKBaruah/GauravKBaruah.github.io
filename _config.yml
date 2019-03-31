@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaurav Baruah/ https://gauravkbaruah.github.io/"
+title                    : "Gaurav Baruah"
 title_separator          : "-"
 name                     : &name "Gaurav Baruah"
 description              : &description "personal description"
