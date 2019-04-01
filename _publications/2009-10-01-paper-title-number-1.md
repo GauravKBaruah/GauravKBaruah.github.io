@@ -6,7 +6,7 @@ excerpt: 'This paper is about early warning signals, quantitative genetics, popu
 date: 2019-04-23
 venue: 'The American Naturalist'
 paperurl: 'https://www.journals.uchicago.edu/doi/10.1086/702849'
-citation: 'G. Baruah, C. F. Clements, F. Guillaume, A. Ozgul(2019). &quot;When do shifts in trait dynamics precede population declines?.&quot; <i>The American Naturalist </i>. 193(5).'
+
 ---
 
 G. Baruah, C. F. Clements, F. Guillaume, A. Ozgul (2019). "When do shifts in trait dynamics precede population declines?" <i>The American Naturalist </i></i>. 193 (5)
