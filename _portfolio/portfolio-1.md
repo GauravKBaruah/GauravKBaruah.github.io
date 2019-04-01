@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 1"
 excerpt: ""
-collection: portfolio
+collection: research
 ---
 
 **Early warning signals of population decline.**
