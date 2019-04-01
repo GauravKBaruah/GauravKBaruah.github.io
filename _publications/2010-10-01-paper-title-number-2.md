@@ -9,4 +9,4 @@ paperurl: 'https://www.biorxiv.org/content/10.1101/568600v1.abstract'
 citation: 'Alex Arkilanian, Christopher F. Clements, Arpat Ozgul, Gaurav Baruah (2019). &quot;Effect of time-series length and resolution on abundance-and trait-based early warning signals of population declines.&quot; <i>Bioarxiv</i>. 1(2).'
 ---
 
-Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+
