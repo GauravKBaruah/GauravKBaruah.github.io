@@ -1,12 +1,15 @@
 ---
-title: "Effect of time-series length and resolution on abundance-and trait-based early warning signals of population declines"
+title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2019-23-03
-venue: 'Bioarxiv'
-paperurl: 'https://www.biorxiv.org/content/10.1101/568600v1.abstract'
-citation: 'Alex Arkilanian, Christopher F. Clements, Arpat Ozgul, Gaurav Baruah (2019). &quot;Effect of time-series length and resolution on abundance-and trait-based early warning signals of population declines.&quot; <i>Bioarxiv</i>. 1(2).'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
