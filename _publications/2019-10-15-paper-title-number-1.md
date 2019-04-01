@@ -6,7 +6,7 @@ excerpt: 'This study is about early warning signals, trait dynamics, environment
 date: 2015-10-01
 venue: 'The American Naturalist'
 paperurl: 'When Do Shifts in Trait Dynamics Precede Population Declines?'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Gaurav Baruah, Christopher F. Clements, Frédéric Guillaume, and Arpat Ozgul1 (2019).  &quot;When do shifts in trait dynamics precede population declines?&quot; <i>The American Naturalist </i>. 195 (5).'
 ---
 
 citation: Gaurav Baruah, Christopher F. Clements, Frédéric Guillaume, and Arpat Ozgul1 (2019). "When do shifts in trait dynamics precede population declines?" <i>The American Naturalist </i>. 195 (5).
