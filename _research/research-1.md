@@ -2,8 +2,7 @@
 title: "Research"
 excerpt: ""
 ---
-
-
+ 
 **Early warning signals of population decline.**
 
 I am investigating how populations respond to different environmental perturbations and
