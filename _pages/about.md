@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  Hi there! I am Gaurav. I am currently a PhD student at University of Zurich particularly interested on investigating how populations respond to different environmental perturbations and 
+  Hi there! I am Gaurav. This is beta version of a webpage i am currently making. I am  a PhD student at University of Zurich particularly interested on investigating how populations respond to different environmental perturbations and 
    if there are  early warning signals associated with population regime shifts. 
    To achieve this, I am using a combination of simulation-based modelling approach and 
    experimental methods involving laboratory microcosms. In my current work, 
