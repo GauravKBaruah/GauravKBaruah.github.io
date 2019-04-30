@@ -12,7 +12,7 @@ Gaurav Baruah, Christopher F Clements, Frederic Guillaume, Arpat Ozgul 2019 [*Th
 Gaurav Baruah, Christopher F Clements, Arpat Ozgul 2019 [*biorxiv*](https://www.biorxiv.org/content/10.1101/422915v3.abstract)
 
 3. Effect of timeseries length and resolution on abundance and trait-based early warning signals of population declines.
-Alex Arkilanian\*, Christopher F Clements, Arpat Ozgul, Gaurav Baruah 2019[*biorxiv*](https://www.biorxiv.org/content/10.1101/568600v1.abstract).  \*undergraduate Buss student
+Alex Arkilanian\*, Christopher F Clements, Arpat Ozgul, Gaurav Baruah 2019 [*biorxiv*](https://www.biorxiv.org/content/10.1101/568600v1.abstract).  \*undergraduate Buss student
 
 4. Tundra Trait Team: A database of plant traits spanning the tundra biome.
 Anne D Bjorkman, Isla H Myers-Smith, ..., Gaurav Baruah... 2018 [*Global Ecology and Biogeography*](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12821)
