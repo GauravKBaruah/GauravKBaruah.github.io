@@ -20,7 +20,7 @@ Alex Arkilanian\*, Christopher F Clements, Arpat Ozgul, Gaurav Baruah 2019 [*bio
 # Published
 
 1. Eco-evolutionary processes underlying early warning signals of population declines.
-Gaurav Baruah, Christopher F Clements, Arpat Ozgul 2019 (in *press*) Journal of Animal Ecology.(https://www.biorxiv.org/content/10.1101/422915v3.abstract)
+Gaurav Baruah, Christopher F Clements, Arpat Ozgul 2019 (in *press*) [*Journal of Animal Ecology*](https://www.biorxiv.org/content/10.1101/422915v3.abstract)
 
 2. When do shifts in trait dynamices precede population declines?
 Gaurav Baruah, Christopher F Clements, Frederic Guillaume, Arpat Ozgul 2019 [*The American Naturalist*](https://www.journals.uchicago.edu/doi/10.1086/702849)
